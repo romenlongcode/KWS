@@ -1,2 +1,2 @@
 # KWS
-Keyword Spotting prac
+Keyword Spotting pract
